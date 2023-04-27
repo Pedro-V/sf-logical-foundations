@@ -1,0 +1,2 @@
+# ignore any coqc output and build files
+*.{vo,glob,aux}*
