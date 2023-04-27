@@ -1,2 +1,7 @@
 # ignore any coqc output and build files
-*.{vo,glob,aux}*
+*.vo
+*.vok
+*.vos
+*.aux
+*.glob
+
