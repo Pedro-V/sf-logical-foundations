@@ -1,1 +1,2 @@
-# sf_logical_foundations
+# Logical Foundations notes
+ 
